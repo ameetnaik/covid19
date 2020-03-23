@@ -54,5 +54,5 @@ countries.forEach(country => {
   });
 });
 
-//fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
-fs.writeFileSync('./files/data.json', JSON.stringify(results, null, 2));
+fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
+//fs.writeFileSync('./files/data.json', JSON.stringify(results, null, 2));
