@@ -3,7 +3,7 @@ name: build-data
 
 on:
   schedule:
-    - cron: '15 1,5,13,23 * * *'
+    - cron: '0 1,5,11,23 * * *'
 
 jobs:
   extract_job:
