@@ -1,5 +1,5 @@
 
-fetch("https://pomber.github.io/covid19/timeseries.json")
+fetch("./data.json")
 .then(response => response.json())
 .then(data => {
   var confirmedArr = [], recoveredArr = [], deathsArr = [], dates = [];
@@ -25,10 +25,6 @@ function drawUSChart(data) {
         series: [{
         name: 'Confirmed',
         data: data.confirmed
-      },
-      {
-        name: 'Recovered',
-        data: data.recovered
       },
       {
         name: 'Deaths',
@@ -113,7 +109,7 @@ function drawUSChart(data) {
       },
       yaxis: {
         min: 0,
-        max: 50000,
+        max: d3.max(data.confirmed)*1.5,
         title: {
           text: 'Cases',
           style: {

@@ -1,6 +1,6 @@
 
 var confirmedArr = [], recoveredArr = [], deathsArr = [], totalsArr = [], countryArr = [];
-fetch("https://pomber.github.io/covid19/timeseries.json")
+fetch("./data.json")
   .then(response => response.json())
   .then(data => {
 
@@ -38,9 +38,6 @@ function drawROWChart(data) {
         series: [{
         name: 'Confirmed',
         data: data.confirmed.slice(0,10)
-      }, {
-        name: 'Recovered',
-        data: data.recovered.slice(0,10)
       }, {
         name: 'Deaths',
         data: data.deaths.slice(0,10)
