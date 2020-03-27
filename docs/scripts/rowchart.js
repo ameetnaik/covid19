@@ -39,6 +39,9 @@ function drawROWChart(data) {
         name: 'Confirmed',
         data: data.confirmed.slice(0,10)
       }, {
+        name: 'Recovered',
+        data: data.recovered.slice(0,10)
+      }, {
         name: 'Deaths',
         data: data.deaths.slice(0,10)
       }],

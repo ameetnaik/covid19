@@ -27,6 +27,10 @@ function drawUSChart(data) {
         data: data.confirmed
       },
       {
+        name: 'Recovered',
+        data: data.recovered
+      },
+      {
         name: 'Deaths',
         data: data.deaths
       }
