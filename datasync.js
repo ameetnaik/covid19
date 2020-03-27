@@ -77,3 +77,41 @@ countries.forEach(country => {
 
 fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
 //fs.writeFileSync('./files/data.json', JSON.stringify(results, null, 2));
+
+
+const dataPathDaily = path.join(
+  WORKSPACE,
+  DATA_REPO,
+  "csse_covid_19_data",
+  "csse_covid_19_daily_reports"
+);
+const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", "uscounty.json");
+
+function getDate() {
+  var date = new Date();
+  
+  var dateString = ('0' + date.getDate()).slice(-2) + '-'
+    + ('0' + (date.getMonth() + 1)).slice(-2) + '-'
+    + date.getFullYear();
+  return dateString;
+}
+
+function getData() {
+  var filename = getDate() + '.csv';
+  const csv = fs.readFileSync(path.resolve(dataPathDaily, filename));
+  //const csv = fs.readFileSync('./files/'+getDate());
+  const [headers, ...rows] = parse(csv);
+  const [fips, admin2, province_state, country_region, last_update, lat, long, confirmed, deaths, recovered, active, combined_key] = headers;
+  const countList = {};
+  var data = [];
+  rows.forEach(([fips, admin2, province_state, country_region, last_update, lat, long, confirmed, deaths, recovered, active, combined_key]) => {
+    data.push({ county: fips, cases: +confirmed, countyName: combined_key });
+  });
+  console.log(data);
+
+  fs.writeFileSync(outputPathDaily, JSON.stringify(data, null, 2));
+  //fs.writeFileSync('./docs/data/uscounty.json', JSON.stringify(data, null, 2));
+
+}
+
+getData();
