@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const parse = require("csv-parse/lib/sync");
 
+
 const WORKSPACE = process.env.GITHUB_WORKSPACE;
 const DATA_REPO = "data"; // from main.yml checkout action path
 const MAIN_REPO = "main"; // from main.yml checkout action path
@@ -79,6 +80,7 @@ fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
 //fs.writeFileSync('./files/data.json', JSON.stringify(results, null, 2));
 
 
+/*
 const dataPathDaily = path.join(
   WORKSPACE,
   DATA_REPO,
@@ -115,3 +117,4 @@ function getData() {
 }
 
 getData();
+*/
