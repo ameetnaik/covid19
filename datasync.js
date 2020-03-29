@@ -93,10 +93,10 @@ function getCounties() {
           data[+fips] = +cases;
           countiesFip[+fips] = county+','+state;
       });
-  outputPath = path.join(WORKSPACE, MAIN_REPO, "docs/data/", "counties.json");
-  fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-  outputPath = path.join(WORKSPACE, MAIN_REPO, "docs/data/", "countyfips.json");
-  fs.writeFileSync(outputPath, JSON.stringify(countiesFip, null, 2));
+  var outputPathData = path.join(WORKSPACE, MAIN_REPO, "docs/data/", "counties.json");
+  fs.writeFileSync(outputPathData, JSON.stringify(data, null, 2));
+  outputPathData = path.join(WORKSPACE, MAIN_REPO, "docs/data/", "countyfips.json");
+  fs.writeFileSync(outputPathData, JSON.stringify(countiesFip, null, 2));
   //fs.writeFileSync('./app/assets/data/counties.json', JSON.stringify(data, null, 2));
   //fs.writeFileSync('./app/assets/data/countyfips.json', JSON.stringify(countiesFip, null, 2));
   });
