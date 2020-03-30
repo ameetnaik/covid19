@@ -15,7 +15,7 @@ fetch("./data.json")
     });
 
         worldData = worldData.sort((a, b) => b.total - a.total).slice(0,10);
-        console.log(worldData.slice(0,10));
+        //console.log(worldData.slice(0,10));
 
         worldData.forEach(({country, confirmed, recovered, deaths, total}) => {
             countryArr.push(country);
