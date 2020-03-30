@@ -1,0 +1,83 @@
+.brunch {
+  font-family: -apple-system, Sans-Serif;
+  text-align: center;
+  font-size: 24pt;
+  color: #3f894a;
+}
+
+.container {
+  max-width: 90%;
+}
+
+#chart .apexcharts-tooltip {
+  color: #fff;
+  transform: translateX(10px) translateY(10px);
+  overflow: visible !important;
+  white-space: normal !important;
+}
+
+#chart .apexcharts-tooltip span {
+  padding: 5px 10px;
+  display: inline-block;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+#tooltip {
+  position: absolute;
+  width: 400px;
+  height: auto;
+  padding: 10px;
+  background-color: #222;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+}
+
+#tooltip.hidden {
+  display: none;
+}
+
+#tooltip p {
+  margin: 0;
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+
+.title {
+  font-size: 3.6rem;
+  fill: #4F4F4F;
+  font-weight: 300;
+  text-anchor: middle;
+}
+
+.subtitle {
+  font-size: 1.6rem;
+  fill: #AAAAAA;
+  font-weight: 300;
+  text-anchor: middle;
+}
+
+.legendTitle {
+    text-anchor: middle;
+    font-size: 2.2rem;
+    fill: #4F4F4F;
+    font-weight: 300;
+}
+
+.axis path,
+.axis tick,
+.axis line {
+  fill: none;
+  stroke: none;
+}
