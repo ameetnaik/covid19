@@ -16,7 +16,8 @@ var path = d3.geoPath()
 
 var svg = d3.select("#us-map").append("svg")
 .attr("width", width)
-.attr("height", height);
+.attr("height", height)
+.call(responsivefy);
 
 var tooltip = d3.select("#us-map-tooltip").append("svg").append("div") 
         .attr("class", "tooltip")       
@@ -360,4 +361,35 @@ function legend({
         .text(title));
 
   return svg.node();
+}
+
+
+function responsivefy(svg) {
+
+  // get container + svg aspect ratio
+  var container = d3.select(svg.node().parentNode),
+      width = parseInt(svg.style("width")),
+      height = parseInt(svg.style("height")),
+      aspect = width / height;
+
+      console.log(svg.node().getBoundingClientRect().height)
+
+  // add viewBox and preserveAspectRatio properties,
+  // and call resize so that svg resizes on inital page load
+  svg.attr("viewBox", "0 0 " + width + " " + height)
+      .attr("perserveAspectRatio", "xMinYMid")
+      .call(resize);
+
+  // to register multiple listeners for same event type, 
+  // you need to add namespace, i.e., 'click.foo'
+  // necessary if you call invoke this function for multiple svgs
+  // api docs: https://github.com/mbostock/d3/wiki/Selections#on
+  d3.select(window).on("resize." + container.attr("id"), resize);
+
+  // get width of container and resize svg to fit it
+  function resize() {
+      var targetWidth = parseInt(container.style("width"));
+      svg.attr("width", targetWidth);
+      svg.attr("height", Math.round(targetWidth / aspect));
+  }
 }
