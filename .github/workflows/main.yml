@@ -1,7 +1,9 @@
 
 name: build-data
 
-on: push
+on:
+  schedule:
+    - cron: '0 1,3,5,11,15,17,19,21,23 * * *'
 
 jobs:
   extract_job:
