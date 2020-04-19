@@ -703,6 +703,14 @@
       "state": "Washington",
       "deaths": "610",
       "total": "11445610"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "53",
+      "cases": "11802",
+      "state": "Washington",
+      "deaths": "629",
+      "total": "11802629"
     }
   ],
   "Illinois": [
@@ -1385,6 +1393,14 @@
       "state": "Illinois",
       "deaths": "1142",
       "total": "275751142"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "17",
+      "cases": "29160",
+      "state": "Illinois",
+      "deaths": "1272",
+      "total": "291601272"
     }
   ],
   "California": [
@@ -2059,6 +2075,14 @@
       "state": "California",
       "deaths": "1050",
       "total": "293981050"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "06",
+      "cases": "30829",
+      "state": "California",
+      "deaths": "1146",
+      "total": "308291146"
     }
   ],
   "Arizona": [
@@ -2725,6 +2749,14 @@
       "state": "Arizona",
       "deaths": "174",
       "total": "4507174"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "04",
+      "cases": "4719",
+      "state": "Arizona",
+      "deaths": "181",
+      "total": "4719181"
     }
   ],
   "Massachusetts": [
@@ -3343,6 +3375,14 @@
       "state": "Massachusetts",
       "deaths": "1404",
       "total": "344021404"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "25",
+      "cases": "36372",
+      "state": "Massachusetts",
+      "deaths": "1560",
+      "total": "363721560"
     }
   ],
   "Wisconsin": [
@@ -3929,6 +3969,14 @@
       "state": "Wisconsin",
       "deaths": "205",
       "total": "4045205"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "55",
+      "cases": "4199",
+      "state": "Wisconsin",
+      "deaths": "212",
+      "total": "4199212"
     }
   ],
   "Texas": [
@@ -4359,34 +4407,34 @@
     {
       "date": "2020-04-05",
       "fips": "48",
-      "cases": "7094",
+      "cases": "7091",
       "state": "Texas",
-      "deaths": "137",
-      "total": "7094137"
+      "deaths": "136",
+      "total": "7091136"
     },
     {
       "date": "2020-04-06",
       "fips": "48",
-      "cases": "8115",
+      "cases": "8104",
       "state": "Texas",
-      "deaths": "160",
-      "total": "8115160"
+      "deaths": "159",
+      "total": "8104159"
     },
     {
       "date": "2020-04-07",
       "fips": "48",
-      "cases": "8974",
+      "cases": "8968",
       "state": "Texas",
-      "deaths": "178",
-      "total": "8974178"
+      "deaths": "177",
+      "total": "8968177"
     },
     {
       "date": "2020-04-08",
       "fips": "48",
-      "cases": "9900",
+      "cases": "9897",
       "state": "Texas",
       "deaths": "195",
-      "total": "9900195"
+      "total": "9897195"
     },
     {
       "date": "2020-04-09",
@@ -4399,26 +4447,26 @@
     {
       "date": "2020-04-10",
       "fips": "48",
-      "cases": "12288",
+      "cases": "12290",
       "state": "Texas",
-      "deaths": "247",
-      "total": "12288247"
+      "deaths": "246",
+      "total": "12290246"
     },
     {
       "date": "2020-04-11",
       "fips": "48",
-      "cases": "13206",
+      "cases": "13208",
       "state": "Texas",
-      "deaths": "266",
-      "total": "13206266"
+      "deaths": "265",
+      "total": "13208265"
     },
     {
       "date": "2020-04-12",
       "fips": "48",
-      "cases": "13774",
+      "cases": "13776",
       "state": "Texas",
-      "deaths": "289",
-      "total": "13774289"
+      "deaths": "288",
+      "total": "13776288"
     },
     {
       "date": "2020-04-13",
@@ -4439,26 +4487,34 @@
     {
       "date": "2020-04-15",
       "fips": "48",
-      "cases": "16103",
+      "cases": "16106",
       "state": "Texas",
       "deaths": "395",
-      "total": "16103395"
+      "total": "16106395"
     },
     {
       "date": "2020-04-16",
       "fips": "48",
-      "cases": "16926",
+      "cases": "16928",
       "state": "Texas",
       "deaths": "428",
-      "total": "16926428"
+      "total": "16928428"
     },
     {
       "date": "2020-04-17",
       "fips": "48",
-      "cases": "18130",
+      "cases": "18131",
       "state": "Texas",
       "deaths": "461",
-      "total": "18130461"
+      "total": "18131461"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "48",
+      "cases": "18927",
+      "state": "Texas",
+      "deaths": "487",
+      "total": "18927487"
     }
   ],
   "Nebraska": [
@@ -4949,6 +5005,14 @@
       "state": "Nebraska",
       "deaths": "24",
       "total": "121624"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "31",
+      "cases": "1348",
+      "state": "Nebraska",
+      "deaths": "28",
+      "total": "134828"
     }
   ],
   "Utah": [
@@ -5375,6 +5439,14 @@
       "state": "Utah",
       "deaths": "23",
       "total": "281323"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "49",
+      "cases": "2942",
+      "state": "Utah",
+      "deaths": "25",
+      "total": "294225"
     }
   ],
   "Oregon": [
@@ -5777,6 +5849,14 @@
       "state": "Oregon",
       "deaths": "70",
       "total": "178570"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "41",
+      "cases": "1844",
+      "state": "Oregon",
+      "deaths": "72",
+      "total": "184472"
     }
   ],
   "Florida": [
@@ -6161,8 +6241,16 @@
       "fips": "12",
       "cases": "24745",
       "state": "Florida",
-      "deaths": "726",
-      "total": "24745726"
+      "deaths": "725",
+      "total": "24745725"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "12",
+      "cases": "25484",
+      "state": "Florida",
+      "deaths": "747",
+      "total": "25484747"
     }
   ],
   "New York": [
@@ -6549,6 +6637,14 @@
       "state": "New York",
       "deaths": "12822",
       "total": "22964212822"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "36",
+      "cases": "236763",
+      "state": "New York",
+      "deaths": "13362",
+      "total": "23676313362"
     }
   ],
   "Rhode Island": [
@@ -6935,6 +7031,14 @@
       "state": "Rhode Island",
       "deaths": "118",
       "total": "4177118"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "44",
+      "cases": "4491",
+      "state": "Rhode Island",
+      "deaths": "137",
+      "total": "4491137"
     }
   ],
   "Georgia": [
@@ -7313,6 +7417,14 @@
       "state": "Georgia",
       "deaths": "661",
       "total": "16658661"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "13",
+      "cases": "17014",
+      "state": "Georgia",
+      "deaths": "670",
+      "total": "17014670"
     }
   ],
   "New Hampshire": [
@@ -7689,8 +7801,16 @@
       "fips": "33",
       "cases": "1287",
       "state": "New Hampshire",
-      "deaths": "40",
-      "total": "128740"
+      "deaths": "37",
+      "total": "128737"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "33",
+      "cases": "1342",
+      "state": "New Hampshire",
+      "deaths": "38",
+      "total": "134238"
     }
   ],
   "North Carolina": [
@@ -8061,6 +8181,14 @@
       "state": "North Carolina",
       "deaths": "159",
       "total": "5859159"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "37",
+      "cases": "6140",
+      "state": "North Carolina",
+      "deaths": "175",
+      "total": "6140175"
     }
   ],
   "New Jersey": [
@@ -8423,6 +8551,14 @@
       "state": "New Jersey",
       "deaths": "3840",
       "total": "784673840"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "34",
+      "cases": "81420",
+      "state": "New Jersey",
+      "deaths": "4070",
+      "total": "814204070"
     }
   ],
   "Colorado": [
@@ -8767,8 +8903,8 @@
       "fips": "08",
       "cases": "8675",
       "state": "Colorado",
-      "deaths": "355",
-      "total": "8675355"
+      "deaths": "374",
+      "total": "8675374"
     },
     {
       "date": "2020-04-17",
@@ -8777,6 +8913,14 @@
       "state": "Colorado",
       "deaths": "389",
       "total": "9047389"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "08",
+      "cases": "9433",
+      "state": "Colorado",
+      "deaths": "409",
+      "total": "9433409"
     }
   ],
   "Maryland": [
@@ -9131,6 +9275,14 @@
       "state": "Maryland",
       "deaths": "425",
       "total": "11572425"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "24",
+      "cases": "12308",
+      "state": "Maryland",
+      "deaths": "463",
+      "total": "12308463"
     }
   ],
   "Nevada": [
@@ -9485,6 +9637,14 @@
       "state": "Nevada",
       "deaths": "151",
       "total": "3524151"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "32",
+      "cases": "3626",
+      "state": "Nevada",
+      "deaths": "155",
+      "total": "3626155"
     }
   ],
   "Tennessee": [
@@ -9839,6 +9999,14 @@
       "state": "Tennessee",
       "deaths": "150",
       "total": "6438150"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "47",
+      "cases": "6637",
+      "state": "Tennessee",
+      "deaths": "152",
+      "total": "6637152"
     }
   ],
   "Hawaii": [
@@ -10185,6 +10353,14 @@
       "state": "Hawaii",
       "deaths": "9",
       "total": "5479"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "15",
+      "cases": "568",
+      "state": "Hawaii",
+      "deaths": "9",
+      "total": "5689"
     }
   ],
   "Indiana": [
@@ -10531,6 +10707,14 @@
       "state": "Indiana",
       "deaths": "519",
       "total": "10154519"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "18",
+      "cases": "10641",
+      "state": "Indiana",
+      "deaths": "545",
+      "total": "10641545"
     }
   ],
   "Kentucky": [
@@ -10877,6 +11061,14 @@
       "state": "Kentucky",
       "deaths": "139",
       "total": "2522139"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "21",
+      "cases": "2707",
+      "state": "Kentucky",
+      "deaths": "145",
+      "total": "2707145"
     }
   ],
   "Minnesota": [
@@ -11223,6 +11415,14 @@
       "state": "Minnesota",
       "deaths": "111",
       "total": "2071111"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "27",
+      "cases": "2213",
+      "state": "Minnesota",
+      "deaths": "121",
+      "total": "2213121"
     }
   ],
   "Oklahoma": [
@@ -11569,6 +11769,14 @@
       "state": "Oklahoma",
       "deaths": "136",
       "total": "2465136"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "40",
+      "cases": "2570",
+      "state": "Oklahoma",
+      "deaths": "139",
+      "total": "2570139"
     }
   ],
   "Pennsylvania": [
@@ -11915,6 +12123,14 @@
       "state": "Pennsylvania",
       "deaths": "1027",
       "total": "301211027"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "42",
+      "cases": "31742",
+      "state": "Pennsylvania",
+      "deaths": "1150",
+      "total": "317421150"
     }
   ],
   "South Carolina": [
@@ -12261,6 +12477,14 @@
       "state": "South Carolina",
       "deaths": "116",
       "total": "4086116"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "45",
+      "cases": "4246",
+      "state": "South Carolina",
+      "deaths": "119",
+      "total": "4246119"
     }
   ],
   "District of Columbia": [
@@ -12363,13 +12587,21 @@
     {
       "date": "2020-03-19",
       "fips": "11",
-      "cases": "68",
+      "cases": "39",
       "state": "District of Columbia",
       "deaths": "0",
-      "total": "680"
+      "total": "390"
     },
     {
       "date": "2020-03-20",
+      "fips": "11",
+      "cases": "71",
+      "state": "District of Columbia",
+      "deaths": "0",
+      "total": "710"
+    },
+    {
+      "date": "2020-03-21",
       "fips": "11",
       "cases": "77",
       "state": "District of Columbia",
@@ -12377,7 +12609,7 @@
       "total": "771"
     },
     {
-      "date": "2020-03-21",
+      "date": "2020-03-22",
       "fips": "11",
       "cases": "98",
       "state": "District of Columbia",
@@ -12385,7 +12617,7 @@
       "total": "981"
     },
     {
-      "date": "2020-03-22",
+      "date": "2020-03-23",
       "fips": "11",
       "cases": "116",
       "state": "District of Columbia",
@@ -12393,15 +12625,15 @@
       "total": "1162"
     },
     {
-      "date": "2020-03-23",
+      "date": "2020-03-24",
       "fips": "11",
-      "cases": "138",
+      "cases": "137",
       "state": "District of Columbia",
       "deaths": "2",
-      "total": "1382"
+      "total": "1372"
     },
     {
-      "date": "2020-03-24",
+      "date": "2020-03-25",
       "fips": "11",
       "cases": "183",
       "state": "District of Columbia",
@@ -12409,7 +12641,7 @@
       "total": "1832"
     },
     {
-      "date": "2020-03-25",
+      "date": "2020-03-26",
       "fips": "11",
       "cases": "231",
       "state": "District of Columbia",
@@ -12417,7 +12649,7 @@
       "total": "2313"
     },
     {
-      "date": "2020-03-26",
+      "date": "2020-03-27",
       "fips": "11",
       "cases": "267",
       "state": "District of Columbia",
@@ -12425,7 +12657,7 @@
       "total": "2673"
     },
     {
-      "date": "2020-03-27",
+      "date": "2020-03-28",
       "fips": "11",
       "cases": "304",
       "state": "District of Columbia",
@@ -12433,28 +12665,20 @@
       "total": "3044"
     },
     {
-      "date": "2020-03-28",
-      "fips": "11",
-      "cases": "342",
-      "state": "District of Columbia",
-      "deaths": "4",
-      "total": "3424"
-    },
-    {
       "date": "2020-03-29",
       "fips": "11",
       "cases": "342",
       "state": "District of Columbia",
-      "deaths": "4",
-      "total": "3424"
+      "deaths": "5",
+      "total": "3425"
     },
     {
       "date": "2020-03-30",
       "fips": "11",
-      "cases": "495",
+      "cases": "401",
       "state": "District of Columbia",
       "deaths": "9",
-      "total": "4959"
+      "total": "4019"
     },
     {
       "date": "2020-03-31",
@@ -12517,8 +12741,8 @@
       "fips": "11",
       "cases": "1211",
       "state": "District of Columbia",
-      "deaths": "22",
-      "total": "121122"
+      "deaths": "24",
+      "total": "121124"
     },
     {
       "date": "2020-04-08",
@@ -12599,6 +12823,14 @@
       "state": "District of Columbia",
       "deaths": "86",
       "total": "247686"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "11",
+      "cases": "2666",
+      "state": "District of Columbia",
+      "deaths": "91",
+      "total": "266691"
     }
   ],
   "Kansas": [
@@ -12937,6 +13169,14 @@
       "state": "Kansas",
       "deaths": "84",
       "total": "173184"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "20",
+      "cases": "1820",
+      "state": "Kansas",
+      "deaths": "86",
+      "total": "182086"
     }
   ],
   "Missouri": [
@@ -13275,6 +13515,14 @@
       "state": "Missouri",
       "deaths": "184",
       "total": "5283184"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "29",
+      "cases": "5517",
+      "state": "Missouri",
+      "deaths": "194",
+      "total": "5517194"
     }
   ],
   "Vermont": [
@@ -13613,6 +13861,14 @@
       "state": "Vermont",
       "deaths": "35",
       "total": "77935"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "50",
+      "cases": "803",
+      "state": "Vermont",
+      "deaths": "37",
+      "total": "80337"
     }
   ],
   "Virginia": [
@@ -13951,6 +14207,14 @@
       "state": "Virginia",
       "deaths": "238",
       "total": "7491238"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "51",
+      "cases": "8053",
+      "state": "Virginia",
+      "deaths": "258",
+      "total": "8053258"
     }
   ],
   "Connecticut": [
@@ -14281,6 +14545,14 @@
       "state": "Connecticut",
       "deaths": "1036",
       "total": "168091036"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "09",
+      "cases": "17550",
+      "state": "Connecticut",
+      "deaths": "1086",
+      "total": "175501086"
     }
   ],
   "Iowa": [
@@ -14611,6 +14883,14 @@
       "state": "Iowa",
       "deaths": "64",
       "total": "233264"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "19",
+      "cases": "2513",
+      "state": "Iowa",
+      "deaths": "74",
+      "total": "251374"
     }
   ],
   "Louisiana": [
@@ -14933,6 +15213,14 @@
       "state": "Louisiana",
       "deaths": "1213",
       "total": "231181213"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "22",
+      "cases": "23580",
+      "state": "Louisiana",
+      "deaths": "1267",
+      "total": "235801267"
     }
   ],
   "Ohio": [
@@ -15255,6 +15543,14 @@
       "state": "Ohio",
       "deaths": "418",
       "total": "9107418"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "39",
+      "cases": "10222",
+      "state": "Ohio",
+      "deaths": "451",
+      "total": "10222451"
     }
   ],
   "Michigan": [
@@ -15569,6 +15865,14 @@
       "state": "Michigan",
       "deaths": "2226",
       "total": "299522226"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "26",
+      "cases": "30717",
+      "state": "Michigan",
+      "deaths": "2307",
+      "total": "307172307"
     }
   ],
   "South Dakota": [
@@ -15883,6 +16187,14 @@
       "state": "South Dakota",
       "deaths": "7",
       "total": "14117"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "46",
+      "cases": "1542",
+      "state": "South Dakota",
+      "deaths": "7",
+      "total": "15427"
     }
   ],
   "Arkansas": [
@@ -16189,6 +16501,14 @@
       "state": "Arkansas",
       "deaths": "37",
       "total": "169537"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "05",
+      "cases": "1777",
+      "state": "Arkansas",
+      "deaths": "38",
+      "total": "177738"
     }
   ],
   "Delaware": [
@@ -16495,6 +16815,14 @@
       "state": "Delaware",
       "deaths": "61",
       "total": "232361"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "10",
+      "cases": "2538",
+      "state": "Delaware",
+      "deaths": "67",
+      "total": "253867"
     }
   ],
   "Mississippi": [
@@ -16801,6 +17129,14 @@
       "state": "Mississippi",
       "deaths": "140",
       "total": "3793140"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "28",
+      "cases": "3974",
+      "state": "Mississippi",
+      "deaths": "152",
+      "total": "3974152"
     }
   ],
   "New Mexico": [
@@ -17107,6 +17443,14 @@
       "state": "New Mexico",
       "deaths": "51",
       "total": "171151"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "35",
+      "cases": "1798",
+      "state": "New Mexico",
+      "deaths": "53",
+      "total": "179853"
     }
   ],
   "North Dakota": [
@@ -17413,6 +17757,14 @@
       "state": "North Dakota",
       "deaths": "9",
       "total": "4399"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "38",
+      "cases": "528",
+      "state": "North Dakota",
+      "deaths": "9",
+      "total": "5289"
     }
   ],
   "Wyoming": [
@@ -17719,6 +18071,14 @@
       "state": "Wyoming",
       "deaths": "2",
       "total": "3052"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "56",
+      "cases": "309",
+      "state": "Wyoming",
+      "deaths": "2",
+      "total": "3092"
     }
   ],
   "Alaska": [
@@ -18017,6 +18377,14 @@
       "state": "Alaska",
       "deaths": "7",
       "total": "3077"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "02",
+      "cases": "312",
+      "state": "Alaska",
+      "deaths": "7",
+      "total": "3127"
     }
   ],
   "Maine": [
@@ -18315,6 +18683,14 @@
       "state": "Maine",
       "deaths": "29",
       "total": "82729"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "23",
+      "cases": "847",
+      "state": "Maine",
+      "deaths": "32",
+      "total": "84732"
     }
   ],
   "Alabama": [
@@ -18605,6 +18981,14 @@
       "state": "Alabama",
       "deaths": "151",
       "total": "4572151"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "01",
+      "cases": "4723",
+      "state": "Alabama",
+      "deaths": "147",
+      "total": "4723147"
     }
   ],
   "Idaho": [
@@ -18895,6 +19279,14 @@
       "state": "Idaho",
       "deaths": "43",
       "total": "156643"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "16",
+      "cases": "1577",
+      "state": "Idaho",
+      "deaths": "44",
+      "total": "157744"
     }
   ],
   "Montana": [
@@ -19185,6 +19577,14 @@
       "state": "Montana",
       "deaths": "8",
       "total": "4228"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "30",
+      "cases": "426",
+      "state": "Montana",
+      "deaths": "10",
+      "total": "42610"
     }
   ],
   "Puerto Rico": [
@@ -19475,6 +19875,14 @@
       "state": "Puerto Rico",
       "deaths": "58",
       "total": "106858"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "72",
+      "cases": "1118",
+      "state": "Puerto Rico",
+      "deaths": "60",
+      "total": "111860"
     }
   ],
   "Virgin Islands": [
@@ -19757,6 +20165,14 @@
       "state": "Virgin Islands",
       "deaths": "2",
       "total": "512"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "78",
+      "cases": "53",
+      "state": "Virgin Islands",
+      "deaths": "3",
+      "total": "533"
     }
   ],
   "Guam": [
@@ -19995,10 +20411,10 @@
     {
       "date": "2020-04-13",
       "fips": "66",
-      "cases": "716",
+      "cases": "719",
       "state": "Guam",
       "deaths": "6",
-      "total": "7166"
+      "total": "7196"
     },
     {
       "date": "2020-04-14",
@@ -20031,6 +20447,14 @@
       "state": "Guam",
       "deaths": "6",
       "total": "7966"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "66",
+      "cases": "805",
+      "state": "Guam",
+      "deaths": "6",
+      "total": "8056"
     }
   ],
   "West Virginia": [
@@ -20289,6 +20713,14 @@
       "state": "West Virginia",
       "deaths": "16",
       "total": "77616"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "54",
+      "cases": "825",
+      "state": "West Virginia",
+      "deaths": "18",
+      "total": "82518"
     }
   ],
   "Northern Mariana Islands": [
@@ -20459,6 +20891,14 @@
       "state": "Northern Mariana Islands",
       "deaths": "2",
       "total": "142"
+    },
+    {
+      "date": "2020-04-18",
+      "fips": "69",
+      "cases": "14",
+      "state": "Northern Mariana Islands",
+      "deaths": "2",
+      "total": "142"
     }
   ],
   "American Samoa": [
@@ -20528,6 +20968,14 @@
     },
     {
       "date": "2020-04-17",
+      "fips": "60",
+      "cases": "0",
+      "state": "American Samoa",
+      "deaths": "0",
+      "total": "00"
+    },
+    {
+      "date": "2020-04-18",
       "fips": "60",
       "cases": "0",
       "state": "American Samoa",
