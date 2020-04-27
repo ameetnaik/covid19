@@ -75871,14 +75871,6 @@
     {
       "country": "Mexico",
       "date": "2020-3-13",
-      "confirmed": 12,
-      "deaths": 0,
-      "total": 12,
-      "recovered": 4
-    },
-    {
-      "country": "Mexico",
-      "date": "2020-3-14",
       "confirmed": 26,
       "deaths": 0,
       "total": 26,
@@ -75886,7 +75878,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-15",
+      "date": "2020-3-14",
       "confirmed": 41,
       "deaths": 0,
       "total": 41,
@@ -75894,7 +75886,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-16",
+      "date": "2020-3-15",
       "confirmed": 53,
       "deaths": 0,
       "total": 53,
@@ -75902,7 +75894,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-17",
+      "date": "2020-3-16",
       "confirmed": 82,
       "deaths": 0,
       "total": 82,
@@ -75910,7 +75902,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-18",
+      "date": "2020-3-17",
       "confirmed": 93,
       "deaths": 0,
       "total": 93,
@@ -75918,15 +75910,15 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-19",
+      "date": "2020-3-18",
       "confirmed": 118,
-      "deaths": 1,
-      "total": 119,
+      "deaths": 0,
+      "total": 118,
       "recovered": 4
     },
     {
       "country": "Mexico",
-      "date": "2020-3-20",
+      "date": "2020-3-19",
       "confirmed": 164,
       "deaths": 1,
       "total": 165,
@@ -75934,7 +75926,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-21",
+      "date": "2020-3-20",
       "confirmed": 203,
       "deaths": 2,
       "total": 205,
@@ -75942,7 +75934,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-22",
+      "date": "2020-3-21",
       "confirmed": 251,
       "deaths": 2,
       "total": 253,
@@ -75950,7 +75942,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-23",
+      "date": "2020-3-22",
       "confirmed": 316,
       "deaths": 3,
       "total": 319,
@@ -75958,7 +75950,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-24",
+      "date": "2020-3-23",
       "confirmed": 367,
       "deaths": 4,
       "total": 371,
@@ -75966,7 +75958,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-25",
+      "date": "2020-3-24",
       "confirmed": 405,
       "deaths": 5,
       "total": 410,
@@ -75974,7 +75966,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-26",
+      "date": "2020-3-25",
       "confirmed": 475,
       "deaths": 6,
       "total": 481,
@@ -75982,7 +75974,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-27",
+      "date": "2020-3-26",
       "confirmed": 585,
       "deaths": 8,
       "total": 593,
@@ -75990,7 +75982,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-28",
+      "date": "2020-3-27",
       "confirmed": 717,
       "deaths": 12,
       "total": 729,
@@ -75998,7 +75990,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-29",
+      "date": "2020-3-28",
       "confirmed": 848,
       "deaths": 16,
       "total": 864,
@@ -76006,15 +75998,15 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-3-30",
+      "date": "2020-3-29",
       "confirmed": 993,
       "deaths": 20,
       "total": 1013,
-      "recovered": 35
+      "recovered": 4
     },
     {
       "country": "Mexico",
-      "date": "2020-3-31",
+      "date": "2020-3-30",
       "confirmed": 1094,
       "deaths": 28,
       "total": 1122,
@@ -76022,7 +76014,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-1",
+      "date": "2020-3-31",
       "confirmed": 1215,
       "deaths": 29,
       "total": 1244,
@@ -76030,7 +76022,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-2",
+      "date": "2020-4-1",
       "confirmed": 1378,
       "deaths": 37,
       "total": 1415,
@@ -76038,15 +76030,15 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-3",
+      "date": "2020-4-2",
       "confirmed": 1510,
       "deaths": 50,
       "total": 1560,
-      "recovered": 633
+      "recovered": 35
     },
     {
       "country": "Mexico",
-      "date": "2020-4-4",
+      "date": "2020-4-3",
       "confirmed": 1688,
       "deaths": 60,
       "total": 1748,
@@ -76054,7 +76046,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-5",
+      "date": "2020-4-4",
       "confirmed": 1890,
       "deaths": 79,
       "total": 1969,
@@ -76062,7 +76054,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-6",
+      "date": "2020-4-5",
       "confirmed": 2143,
       "deaths": 94,
       "total": 2237,
@@ -76070,7 +76062,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-7",
+      "date": "2020-4-6",
       "confirmed": 2439,
       "deaths": 125,
       "total": 2564,
@@ -76078,7 +76070,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-8",
+      "date": "2020-4-7",
       "confirmed": 2785,
       "deaths": 141,
       "total": 2926,
@@ -76086,7 +76078,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-9",
+      "date": "2020-4-8",
       "confirmed": 3181,
       "deaths": 174,
       "total": 3355,
@@ -76094,7 +76086,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-10",
+      "date": "2020-4-9",
       "confirmed": 3441,
       "deaths": 194,
       "total": 3635,
@@ -76102,7 +76094,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-11",
+      "date": "2020-4-10",
       "confirmed": 3844,
       "deaths": 233,
       "total": 4077,
@@ -76110,39 +76102,39 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-12",
+      "date": "2020-4-11",
       "confirmed": 4219,
       "deaths": 273,
       "total": 4492,
+      "recovered": 633
+    },
+    {
+      "country": "Mexico",
+      "date": "2020-4-12",
+      "confirmed": 4661,
+      "deaths": 296,
+      "total": 4957,
       "recovered": 1772
     },
     {
       "country": "Mexico",
       "date": "2020-4-13",
-      "confirmed": 4661,
-      "deaths": 296,
-      "total": 4957,
+      "confirmed": 5014,
+      "deaths": 332,
+      "total": 5346,
       "recovered": 1843
     },
     {
       "country": "Mexico",
       "date": "2020-4-14",
-      "confirmed": 5014,
-      "deaths": 332,
-      "total": 5346,
+      "confirmed": 5399,
+      "deaths": 406,
+      "total": 5805,
       "recovered": 1964
     },
     {
       "country": "Mexico",
       "date": "2020-4-15",
-      "confirmed": 5399,
-      "deaths": 406,
-      "total": 5805,
-      "recovered": 2125
-    },
-    {
-      "country": "Mexico",
-      "date": "2020-4-16",
       "confirmed": 5847,
       "deaths": 449,
       "total": 6296,
@@ -76150,7 +76142,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-17",
+      "date": "2020-4-16",
       "confirmed": 6297,
       "deaths": 486,
       "total": 6783,
@@ -76158,7 +76150,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-18",
+      "date": "2020-4-17",
       "confirmed": 6875,
       "deaths": 546,
       "total": 7421,
@@ -76166,15 +76158,15 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-19",
+      "date": "2020-4-18",
       "confirmed": 7497,
       "deaths": 650,
       "total": 8147,
-      "recovered": 2627
+      "recovered": 2125
     },
     {
       "country": "Mexico",
-      "date": "2020-4-20",
+      "date": "2020-4-19",
       "confirmed": 8261,
       "deaths": 686,
       "total": 8947,
@@ -76182,7 +76174,7 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-21",
+      "date": "2020-4-20",
       "confirmed": 8772,
       "deaths": 712,
       "total": 9484,
@@ -76190,10 +76182,18 @@
     },
     {
       "country": "Mexico",
-      "date": "2020-4-22",
+      "date": "2020-4-21",
       "confirmed": 9501,
       "deaths": 857,
       "total": 10358,
+      "recovered": 2627
+    },
+    {
+      "country": "Mexico",
+      "date": "2020-4-22",
+      "confirmed": 10544,
+      "deaths": 970,
+      "total": 11514,
       "recovered": 2627
     },
     {
@@ -76207,9 +76207,9 @@
     {
       "country": "Mexico",
       "date": "2020-4-24",
-      "confirmed": 11633,
-      "deaths": 1069,
-      "total": 12702,
+      "confirmed": 12872,
+      "deaths": 1221,
+      "total": 14093,
       "recovered": 2627
     },
     {
