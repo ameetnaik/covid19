@@ -135881,30 +135881,22 @@
     {
       "country": "Uruguay",
       "date": "2020-3-13",
-      "confirmed": 0,
+      "confirmed": 4,
       "deaths": 0,
-      "total": 0,
+      "total": 4,
       "recovered": 0
     },
     {
       "country": "Uruguay",
       "date": "2020-3-14",
-      "confirmed": 4,
+      "confirmed": 6,
       "deaths": 0,
-      "total": 4,
+      "total": 6,
       "recovered": 0
     },
     {
       "country": "Uruguay",
       "date": "2020-3-15",
-      "confirmed": 4,
-      "deaths": 0,
-      "total": 4,
-      "recovered": 0
-    },
-    {
-      "country": "Uruguay",
-      "date": "2020-3-16",
       "confirmed": 8,
       "deaths": 0,
       "total": 8,
@@ -135912,7 +135904,7 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-3-17",
+      "date": "2020-3-16",
       "confirmed": 29,
       "deaths": 0,
       "total": 29,
@@ -135920,7 +135912,7 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-3-18",
+      "date": "2020-3-17",
       "confirmed": 50,
       "deaths": 0,
       "total": 50,
@@ -135928,7 +135920,7 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-3-19",
+      "date": "2020-3-18",
       "confirmed": 79,
       "deaths": 0,
       "total": 79,
@@ -135936,7 +135928,7 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-3-20",
+      "date": "2020-3-19",
       "confirmed": 94,
       "deaths": 0,
       "total": 94,
@@ -135944,10 +135936,18 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-3-21",
+      "date": "2020-3-20",
       "confirmed": 110,
       "deaths": 0,
       "total": 110,
+      "recovered": 0
+    },
+    {
+      "country": "Uruguay",
+      "date": "2020-3-21",
+      "confirmed": 135,
+      "deaths": 0,
+      "total": 135,
       "recovered": 0
     },
     {
@@ -135969,14 +135969,6 @@
     {
       "country": "Uruguay",
       "date": "2020-3-24",
-      "confirmed": 162,
-      "deaths": 0,
-      "total": 162,
-      "recovered": 0
-    },
-    {
-      "country": "Uruguay",
-      "date": "2020-3-25",
       "confirmed": 189,
       "deaths": 0,
       "total": 189,
@@ -135984,7 +135976,7 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-3-26",
+      "date": "2020-3-25",
       "confirmed": 217,
       "deaths": 0,
       "total": 217,
@@ -135992,7 +135984,7 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-3-27",
+      "date": "2020-3-26",
       "confirmed": 238,
       "deaths": 0,
       "total": 238,
@@ -136000,7 +135992,7 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-3-28",
+      "date": "2020-3-27",
       "confirmed": 274,
       "deaths": 0,
       "total": 274,
@@ -136008,18 +136000,26 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-3-29",
-      "confirmed": 304,
+      "date": "2020-3-28",
+      "confirmed": 303,
       "deaths": 1,
-      "total": 305,
+      "total": 304,
+      "recovered": 0
+    },
+    {
+      "country": "Uruguay",
+      "date": "2020-3-29",
+      "confirmed": 309,
+      "deaths": 1,
+      "total": 310,
       "recovered": 0
     },
     {
       "country": "Uruguay",
       "date": "2020-3-30",
-      "confirmed": 310,
+      "confirmed": 320,
       "deaths": 1,
-      "total": 311,
+      "total": 321,
       "recovered": 0
     },
     {
@@ -136033,26 +136033,26 @@
     {
       "country": "Uruguay",
       "date": "2020-4-1",
-      "confirmed": 338,
-      "deaths": 2,
-      "total": 340,
-      "recovered": 41
-    },
-    {
-      "country": "Uruguay",
-      "date": "2020-4-2",
       "confirmed": 350,
-      "deaths": 4,
-      "total": 354,
+      "deaths": 2,
+      "total": 352,
       "recovered": 62
     },
     {
       "country": "Uruguay",
-      "date": "2020-4-3",
+      "date": "2020-4-2",
       "confirmed": 369,
       "deaths": 4,
       "total": 373,
       "recovered": 68
+    },
+    {
+      "country": "Uruguay",
+      "date": "2020-4-3",
+      "confirmed": 386,
+      "deaths": 4,
+      "total": 390,
+      "recovered": 86
     },
     {
       "country": "Uruguay",
@@ -136065,18 +136065,18 @@
     {
       "country": "Uruguay",
       "date": "2020-4-5",
-      "confirmed": 400,
-      "deaths": 5,
-      "total": 405,
-      "recovered": 93
-    },
-    {
-      "country": "Uruguay",
-      "date": "2020-4-6",
       "confirmed": 406,
       "deaths": 6,
       "total": 412,
       "recovered": 104
+    },
+    {
+      "country": "Uruguay",
+      "date": "2020-4-6",
+      "confirmed": 415,
+      "deaths": 6,
+      "total": 421,
+      "recovered": 123
     },
     {
       "country": "Uruguay",
@@ -136089,14 +136089,6 @@
     {
       "country": "Uruguay",
       "date": "2020-4-8",
-      "confirmed": 424,
-      "deaths": 7,
-      "total": 431,
-      "recovered": 150
-    },
-    {
-      "country": "Uruguay",
-      "date": "2020-4-9",
       "confirmed": 456,
       "deaths": 7,
       "total": 463,
@@ -136104,7 +136096,7 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-4-10",
+      "date": "2020-4-9",
       "confirmed": 473,
       "deaths": 7,
       "total": 480,
@@ -136112,11 +136104,19 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-4-11",
+      "date": "2020-4-10",
       "confirmed": 494,
       "deaths": 7,
       "total": 501,
       "recovered": 214
+    },
+    {
+      "country": "Uruguay",
+      "date": "2020-4-11",
+      "confirmed": 501,
+      "deaths": 7,
+      "total": 508,
+      "recovered": 224
     },
     {
       "country": "Uruguay",
@@ -136129,14 +136129,6 @@
     {
       "country": "Uruguay",
       "date": "2020-4-13",
-      "confirmed": 480,
-      "deaths": 8,
-      "total": 488,
-      "recovered": 231
-    },
-    {
-      "country": "Uruguay",
-      "date": "2020-4-14",
       "confirmed": 483,
       "deaths": 8,
       "total": 491,
@@ -136144,11 +136136,19 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-4-15",
+      "date": "2020-4-14",
       "confirmed": 492,
       "deaths": 8,
       "total": 500,
       "recovered": 260
+    },
+    {
+      "country": "Uruguay",
+      "date": "2020-4-15",
+      "confirmed": 493,
+      "deaths": 9,
+      "total": 502,
+      "recovered": 272
     },
     {
       "country": "Uruguay",
@@ -136161,14 +136161,6 @@
     {
       "country": "Uruguay",
       "date": "2020-4-17",
-      "confirmed": 502,
-      "deaths": 9,
-      "total": 511,
-      "recovered": 286
-    },
-    {
-      "country": "Uruguay",
-      "date": "2020-4-18",
       "confirmed": 508,
       "deaths": 9,
       "total": 517,
@@ -136176,10 +136168,18 @@
     },
     {
       "country": "Uruguay",
-      "date": "2020-4-19",
+      "date": "2020-4-18",
       "confirmed": 517,
+      "deaths": 9,
+      "total": 526,
+      "recovered": 298
+    },
+    {
+      "country": "Uruguay",
+      "date": "2020-4-19",
+      "confirmed": 528,
       "deaths": 10,
-      "total": 527,
+      "total": 538,
       "recovered": 298
     },
     {
@@ -136193,18 +136193,18 @@
     {
       "country": "Uruguay",
       "date": "2020-4-21",
-      "confirmed": 535,
-      "deaths": 11,
-      "total": 546,
-      "recovered": 313
-    },
-    {
-      "country": "Uruguay",
-      "date": "2020-4-22",
       "confirmed": 543,
       "deaths": 12,
       "total": 555,
       "recovered": 324
+    },
+    {
+      "country": "Uruguay",
+      "date": "2020-4-22",
+      "confirmed": 549,
+      "deaths": 12,
+      "total": 561,
+      "recovered": 337
     },
     {
       "country": "Uruguay",
