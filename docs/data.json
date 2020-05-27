@@ -57531,18 +57531,18 @@
     {
       "country": "France",
       "date": "2020-5-22",
-      "confirmed": 182015,
-      "deaths": 28218,
-      "total": 210233,
-      "recovered": 63986
+      "confirmed": 182354,
+      "deaths": 28292,
+      "total": 210646,
+      "recovered": 64327
     },
     {
       "country": "France",
       "date": "2020-5-23",
-      "confirmed": 182036,
-      "deaths": 28218,
-      "total": 210254,
-      "recovered": 63988
+      "confirmed": 182694,
+      "deaths": 28335,
+      "total": 211029,
+      "recovered": 64665
     },
     {
       "country": "France",
@@ -107482,7 +107482,7 @@
       "confirmed": 962,
       "deaths": 12,
       "total": 974,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107490,7 +107490,7 @@
       "confirmed": 1138,
       "deaths": 20,
       "total": 1158,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107498,7 +107498,7 @@
       "confirmed": 1416,
       "deaths": 24,
       "total": 1440,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107506,7 +107506,7 @@
       "confirmed": 1711,
       "deaths": 43,
       "total": 1754,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107514,7 +107514,7 @@
       "confirmed": 2058,
       "deaths": 58,
       "total": 2116,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107522,7 +107522,7 @@
       "confirmed": 2467,
       "deaths": 77,
       "total": 2544,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107530,7 +107530,7 @@
       "confirmed": 3003,
       "deaths": 107,
       "total": 3110,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107538,7 +107538,7 @@
       "confirmed": 3640,
       "deaths": 137,
       "total": 3777,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107546,7 +107546,7 @@
       "confirmed": 4217,
       "deaths": 180,
       "total": 4397,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107554,7 +107554,7 @@
       "confirmed": 4764,
       "deaths": 214,
       "total": 4978,
-      "recovered": 2
+      "recovered": 0
     },
     {
       "country": "Netherlands",
@@ -107562,7 +107562,7 @@
       "confirmed": 5580,
       "deaths": 277,
       "total": 5857,
-      "recovered": 3
+      "recovered": 1
     },
     {
       "country": "Netherlands",
@@ -107570,7 +107570,7 @@
       "confirmed": 6438,
       "deaths": 357,
       "total": 6795,
-      "recovered": 4
+      "recovered": 1
     },
     {
       "country": "Netherlands",
@@ -107578,7 +107578,7 @@
       "confirmed": 7468,
       "deaths": 435,
       "total": 7903,
-      "recovered": 6
+      "recovered": 3
     },
     {
       "country": "Netherlands",
@@ -107586,7 +107586,7 @@
       "confirmed": 8647,
       "deaths": 547,
       "total": 9194,
-      "recovered": 6
+      "recovered": 3
     },
     {
       "country": "Netherlands",
@@ -107594,7 +107594,7 @@
       "confirmed": 9819,
       "deaths": 640,
       "total": 10459,
-      "recovered": 6
+      "recovered": 3
     },
     {
       "country": "Netherlands",
@@ -107602,7 +107602,7 @@
       "confirmed": 10930,
       "deaths": 772,
       "total": 11702,
-      "recovered": 253
+      "recovered": 3
     },
     {
       "country": "Netherlands",
@@ -107610,7 +107610,7 @@
       "confirmed": 11817,
       "deaths": 865,
       "total": 12682,
-      "recovered": 253
+      "recovered": 3
     },
     {
       "country": "Netherlands",
@@ -107618,7 +107618,7 @@
       "confirmed": 12667,
       "deaths": 1040,
       "total": 13707,
-      "recovered": 253
+      "recovered": 3
     },
     {
       "country": "Netherlands",
@@ -107626,7 +107626,7 @@
       "confirmed": 13696,
       "deaths": 1175,
       "total": 14871,
-      "recovered": 260
+      "recovered": 10
     },
     {
       "country": "Netherlands",
@@ -107634,7 +107634,7 @@
       "confirmed": 14788,
       "deaths": 1341,
       "total": 16129,
-      "recovered": 260
+      "recovered": 10
     },
     {
       "country": "Netherlands",
@@ -107642,7 +107642,7 @@
       "confirmed": 15821,
       "deaths": 1490,
       "total": 17311,
-      "recovered": 260
+      "recovered": 10
     },
     {
       "country": "Netherlands",
@@ -107650,7 +107650,7 @@
       "confirmed": 16727,
       "deaths": 1656,
       "total": 18383,
-      "recovered": 262
+      "recovered": 12
     },
     {
       "country": "Netherlands",
@@ -107658,7 +107658,7 @@
       "confirmed": 17953,
       "deaths": 1771,
       "total": 19724,
-      "recovered": 257
+      "recovered": 7
     },
     {
       "country": "Netherlands",
@@ -107666,7 +107666,7 @@
       "confirmed": 18926,
       "deaths": 1874,
       "total": 20800,
-      "recovered": 258
+      "recovered": 8
     },
     {
       "country": "Netherlands",
@@ -107674,7 +107674,7 @@
       "confirmed": 19709,
       "deaths": 2108,
       "total": 21817,
-      "recovered": 272
+      "recovered": 22
     },
     {
       "country": "Netherlands",
@@ -107682,7 +107682,7 @@
       "confirmed": 20682,
       "deaths": 2255,
       "total": 22937,
-      "recovered": 272
+      "recovered": 22
     },
     {
       "country": "Netherlands",
@@ -107690,7 +107690,7 @@
       "confirmed": 21903,
       "deaths": 2403,
       "total": 24306,
-      "recovered": 278
+      "recovered": 28
     },
     {
       "country": "Netherlands",
@@ -107698,7 +107698,7 @@
       "confirmed": 23249,
       "deaths": 2520,
       "total": 25769,
-      "recovered": 287
+      "recovered": 37
     },
     {
       "country": "Netherlands",
@@ -107706,7 +107706,7 @@
       "confirmed": 24571,
       "deaths": 2653,
       "total": 27224,
-      "recovered": 291
+      "recovered": 41
     },
     {
       "country": "Netherlands",
@@ -107714,7 +107714,7 @@
       "confirmed": 25746,
       "deaths": 2747,
       "total": 28493,
-      "recovered": 295
+      "recovered": 45
     },
     {
       "country": "Netherlands",
@@ -107722,7 +107722,7 @@
       "confirmed": 26710,
       "deaths": 2833,
       "total": 29543,
-      "recovered": 295
+      "recovered": 45
     },
     {
       "country": "Netherlands",
@@ -107730,7 +107730,7 @@
       "confirmed": 27580,
       "deaths": 2955,
       "total": 30535,
-      "recovered": 297
+      "recovered": 47
     },
     {
       "country": "Netherlands",
@@ -107738,7 +107738,7 @@
       "confirmed": 28316,
       "deaths": 3145,
       "total": 31461,
-      "recovered": 304
+      "recovered": 54
     },
     {
       "country": "Netherlands",
@@ -107746,7 +107746,7 @@
       "confirmed": 29383,
       "deaths": 3327,
       "total": 32710,
-      "recovered": 311
+      "recovered": 61
     },
     {
       "country": "Netherlands",
@@ -107754,7 +107754,7 @@
       "confirmed": 30619,
       "deaths": 3471,
       "total": 34090,
-      "recovered": 315
+      "recovered": 65
     },
     {
       "country": "Netherlands",
@@ -107762,7 +107762,7 @@
       "confirmed": 31766,
       "deaths": 3613,
       "total": 35379,
-      "recovered": 317
+      "recovered": 67
     },
     {
       "country": "Netherlands",
@@ -107770,7 +107770,7 @@
       "confirmed": 32838,
       "deaths": 3697,
       "total": 36535,
-      "recovered": 322
+      "recovered": 72
     },
     {
       "country": "Netherlands",
@@ -107778,7 +107778,7 @@
       "confirmed": 33588,
       "deaths": 3764,
       "total": 37352,
-      "recovered": 322
+      "recovered": 72
     },
     {
       "country": "Netherlands",
