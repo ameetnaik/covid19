@@ -133512,8 +133512,8 @@
       "country": "Peru",
       "date": "2020-6-9",
       "confirmed": 203736,
-      "deaths": 203736,
-      "total": 407472,
+      "deaths": 5738,
+      "total": 209474,
       "recovered": 92929
     }
   ],
@@ -176115,41 +176115,41 @@
     {
       "country": "US",
       "date": "2020-6-5",
-      "confirmed": 1897380,
-      "deaths": 109118,
-      "total": 2006498,
+      "confirmed": 1902632,
+      "deaths": 109359,
+      "total": 2011991,
       "recovered": 491706
     },
     {
       "country": "US",
       "date": "2020-6-6",
-      "confirmed": 1920061,
-      "deaths": 109787,
-      "total": 2029848,
+      "confirmed": 1925765,
+      "deaths": 110068,
+      "total": 2035833,
       "recovered": 500849
     },
     {
       "country": "US",
       "date": "2020-6-7",
-      "confirmed": 1943647,
-      "deaths": 110508,
-      "total": 2054155,
+      "confirmed": 1943882,
+      "deaths": 110511,
+      "total": 2054393,
       "recovered": 506367
     },
     {
       "country": "US",
       "date": "2020-6-8",
-      "confirmed": 1960897,
-      "deaths": 110990,
-      "total": 2071887,
+      "confirmed": 1961428,
+      "deaths": 111011,
+      "total": 2072439,
       "recovered": 518522
     },
     {
       "country": "US",
       "date": "2020-6-9",
-      "confirmed": 1979411,
-      "deaths": 111989,
-      "total": 2091400,
+      "confirmed": 1973230,
+      "deaths": 111694,
+      "total": 2084924,
       "recovered": 524855
     }
   ],
