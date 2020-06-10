@@ -128183,9 +128183,9 @@
     {
       "country": "Pakistan",
       "date": "2020-2-25",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
-      "total": 0,
+      "total": 2,
       "recovered": 0
     },
     {
@@ -128207,9 +128207,9 @@
     {
       "country": "Pakistan",
       "date": "2020-2-28",
-      "confirmed": 2,
+      "confirmed": 4,
       "deaths": 0,
-      "total": 2,
+      "total": 4,
       "recovered": 0
     },
     {
@@ -128231,9 +128231,9 @@
     {
       "country": "Pakistan",
       "date": "2020-3-2",
-      "confirmed": 4,
+      "confirmed": 5,
       "deaths": 0,
-      "total": 4,
+      "total": 5,
       "recovered": 0
     },
     {
@@ -128255,9 +128255,9 @@
     {
       "country": "Pakistan",
       "date": "2020-3-5",
-      "confirmed": 5,
+      "confirmed": 6,
       "deaths": 0,
-      "total": 5,
+      "total": 6,
       "recovered": 0
     },
     {
@@ -128274,7 +128274,7 @@
       "confirmed": 6,
       "deaths": 0,
       "total": 6,
-      "recovered": 0
+      "recovered": 1
     },
     {
       "country": "Pakistan",
@@ -128287,14 +128287,6 @@
     {
       "country": "Pakistan",
       "date": "2020-3-9",
-      "confirmed": 6,
-      "deaths": 0,
-      "total": 6,
-      "recovered": 1
-    },
-    {
-      "country": "Pakistan",
-      "date": "2020-3-10",
       "confirmed": 16,
       "deaths": 0,
       "total": 16,
@@ -128302,7 +128294,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-11",
+      "date": "2020-3-10",
       "confirmed": 19,
       "deaths": 0,
       "total": 19,
@@ -128310,7 +128302,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-12",
+      "date": "2020-3-11",
       "confirmed": 20,
       "deaths": 0,
       "total": 20,
@@ -128318,7 +128310,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-13",
+      "date": "2020-3-12",
       "confirmed": 28,
       "deaths": 0,
       "total": 28,
@@ -128326,7 +128318,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-14",
+      "date": "2020-3-13",
       "confirmed": 31,
       "deaths": 0,
       "total": 31,
@@ -128334,7 +128326,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-15",
+      "date": "2020-3-14",
       "confirmed": 53,
       "deaths": 0,
       "total": 53,
@@ -128342,7 +128334,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-16",
+      "date": "2020-3-15",
       "confirmed": 136,
       "deaths": 0,
       "total": 136,
@@ -128350,7 +128342,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-17",
+      "date": "2020-3-16",
       "confirmed": 236,
       "deaths": 0,
       "total": 236,
@@ -128358,7 +128350,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-18",
+      "date": "2020-3-17",
       "confirmed": 299,
       "deaths": 0,
       "total": 299,
@@ -128366,7 +128358,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-19",
+      "date": "2020-3-18",
       "confirmed": 454,
       "deaths": 2,
       "total": 456,
@@ -128374,7 +128366,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-20",
+      "date": "2020-3-19",
       "confirmed": 501,
       "deaths": 3,
       "total": 504,
@@ -128382,7 +128374,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-21",
+      "date": "2020-3-20",
       "confirmed": 730,
       "deaths": 3,
       "total": 733,
@@ -128390,7 +128382,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-22",
+      "date": "2020-3-21",
       "confirmed": 776,
       "deaths": 5,
       "total": 781,
@@ -128398,7 +128390,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-23",
+      "date": "2020-3-22",
       "confirmed": 875,
       "deaths": 6,
       "total": 881,
@@ -128406,7 +128398,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-24",
+      "date": "2020-3-23",
       "confirmed": 972,
       "deaths": 7,
       "total": 979,
@@ -128414,7 +128406,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-25",
+      "date": "2020-3-24",
       "confirmed": 1063,
       "deaths": 8,
       "total": 1071,
@@ -128422,7 +128414,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-26",
+      "date": "2020-3-25",
       "confirmed": 1201,
       "deaths": 9,
       "total": 1210,
@@ -128430,7 +128422,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-27",
+      "date": "2020-3-26",
       "confirmed": 1373,
       "deaths": 11,
       "total": 1384,
@@ -128438,7 +128430,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-28",
+      "date": "2020-3-27",
       "confirmed": 1495,
       "deaths": 12,
       "total": 1507,
@@ -128446,7 +128438,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-29",
+      "date": "2020-3-28",
       "confirmed": 1597,
       "deaths": 14,
       "total": 1611,
@@ -128454,7 +128446,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-30",
+      "date": "2020-3-29",
       "confirmed": 1717,
       "deaths": 21,
       "total": 1738,
@@ -128462,7 +128454,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-3-31",
+      "date": "2020-3-30",
       "confirmed": 1938,
       "deaths": 26,
       "total": 1964,
@@ -128470,7 +128462,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-1",
+      "date": "2020-3-31",
       "confirmed": 2118,
       "deaths": 27,
       "total": 2145,
@@ -128478,7 +128470,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-2",
+      "date": "2020-4-1",
       "confirmed": 2421,
       "deaths": 34,
       "total": 2455,
@@ -128486,7 +128478,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-3",
+      "date": "2020-4-2",
       "confirmed": 2686,
       "deaths": 40,
       "total": 2726,
@@ -128494,7 +128486,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-4",
+      "date": "2020-4-3",
       "confirmed": 2818,
       "deaths": 41,
       "total": 2859,
@@ -128502,7 +128494,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-5",
+      "date": "2020-4-4",
       "confirmed": 3157,
       "deaths": 47,
       "total": 3204,
@@ -128510,7 +128502,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-6",
+      "date": "2020-4-5",
       "confirmed": 3766,
       "deaths": 53,
       "total": 3819,
@@ -128518,7 +128510,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-7",
+      "date": "2020-4-6",
       "confirmed": 4035,
       "deaths": 57,
       "total": 4092,
@@ -128526,7 +128518,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-8",
+      "date": "2020-4-7",
       "confirmed": 4263,
       "deaths": 61,
       "total": 4324,
@@ -128534,7 +128526,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-9",
+      "date": "2020-4-8",
       "confirmed": 4489,
       "deaths": 65,
       "total": 4554,
@@ -128542,7 +128534,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-10",
+      "date": "2020-4-9",
       "confirmed": 4695,
       "deaths": 66,
       "total": 4761,
@@ -128550,7 +128542,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-11",
+      "date": "2020-4-10",
       "confirmed": 5011,
       "deaths": 86,
       "total": 5097,
@@ -128558,7 +128550,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-12",
+      "date": "2020-4-11",
       "confirmed": 5230,
       "deaths": 91,
       "total": 5321,
@@ -128566,7 +128558,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-13",
+      "date": "2020-4-12",
       "confirmed": 5496,
       "deaths": 93,
       "total": 5589,
@@ -128574,7 +128566,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-14",
+      "date": "2020-4-13",
       "confirmed": 5837,
       "deaths": 96,
       "total": 5933,
@@ -128582,7 +128574,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-15",
+      "date": "2020-4-14",
       "confirmed": 6383,
       "deaths": 111,
       "total": 6494,
@@ -128590,7 +128582,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-16",
+      "date": "2020-4-15",
       "confirmed": 6919,
       "deaths": 128,
       "total": 7047,
@@ -128598,7 +128590,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-17",
+      "date": "2020-4-16",
       "confirmed": 7025,
       "deaths": 135,
       "total": 7160,
@@ -128606,7 +128598,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-18",
+      "date": "2020-4-17",
       "confirmed": 7638,
       "deaths": 143,
       "total": 7781,
@@ -128614,7 +128606,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-19",
+      "date": "2020-4-18",
       "confirmed": 8348,
       "deaths": 168,
       "total": 8516,
@@ -128622,7 +128614,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-20",
+      "date": "2020-4-19",
       "confirmed": 8418,
       "deaths": 176,
       "total": 8594,
@@ -128630,7 +128622,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-21",
+      "date": "2020-4-20",
       "confirmed": 9565,
       "deaths": 201,
       "total": 9766,
@@ -128638,7 +128630,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-22",
+      "date": "2020-4-21",
       "confirmed": 10076,
       "deaths": 212,
       "total": 10288,
@@ -128646,7 +128638,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-23",
+      "date": "2020-4-22",
       "confirmed": 11155,
       "deaths": 237,
       "total": 11392,
@@ -128654,7 +128646,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-24",
+      "date": "2020-4-23",
       "confirmed": 11940,
       "deaths": 253,
       "total": 12193,
@@ -128662,7 +128654,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-25",
+      "date": "2020-4-24",
       "confirmed": 12723,
       "deaths": 269,
       "total": 12992,
@@ -128670,7 +128662,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-26",
+      "date": "2020-4-25",
       "confirmed": 13328,
       "deaths": 281,
       "total": 13609,
@@ -128678,7 +128670,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-27",
+      "date": "2020-4-26",
       "confirmed": 13915,
       "deaths": 292,
       "total": 14207,
@@ -128686,7 +128678,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-28",
+      "date": "2020-4-27",
       "confirmed": 14612,
       "deaths": 312,
       "total": 14924,
@@ -128694,7 +128686,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-29",
+      "date": "2020-4-28",
       "confirmed": 15525,
       "deaths": 343,
       "total": 15868,
@@ -128702,7 +128694,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-4-30",
+      "date": "2020-4-29",
       "confirmed": 16817,
       "deaths": 385,
       "total": 17202,
@@ -128710,7 +128702,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-1",
+      "date": "2020-4-30",
       "confirmed": 18114,
       "deaths": 417,
       "total": 18531,
@@ -128718,7 +128710,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-2",
+      "date": "2020-5-1",
       "confirmed": 19103,
       "deaths": 440,
       "total": 19543,
@@ -128726,7 +128718,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-3",
+      "date": "2020-5-2",
       "confirmed": 20084,
       "deaths": 457,
       "total": 20541,
@@ -128734,7 +128726,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-4",
+      "date": "2020-5-3",
       "confirmed": 20941,
       "deaths": 476,
       "total": 21417,
@@ -128742,7 +128734,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-5",
+      "date": "2020-5-4",
       "confirmed": 22049,
       "deaths": 514,
       "total": 22563,
@@ -128750,7 +128742,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-6",
+      "date": "2020-5-5",
       "confirmed": 24073,
       "deaths": 564,
       "total": 24637,
@@ -128758,7 +128750,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-7",
+      "date": "2020-5-6",
       "confirmed": 24644,
       "deaths": 585,
       "total": 25229,
@@ -128766,7 +128758,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-8",
+      "date": "2020-5-7",
       "confirmed": 26435,
       "deaths": 599,
       "total": 27034,
@@ -128774,7 +128766,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-9",
+      "date": "2020-5-8",
       "confirmed": 28736,
       "deaths": 636,
       "total": 29372,
@@ -128782,7 +128774,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-10",
+      "date": "2020-5-9",
       "confirmed": 30334,
       "deaths": 659,
       "total": 30993,
@@ -128790,7 +128782,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-11",
+      "date": "2020-5-10",
       "confirmed": 32081,
       "deaths": 706,
       "total": 32787,
@@ -128798,7 +128790,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-12",
+      "date": "2020-5-11",
       "confirmed": 34336,
       "deaths": 737,
       "total": 35073,
@@ -128806,7 +128798,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-13",
+      "date": "2020-5-12",
       "confirmed": 35298,
       "deaths": 761,
       "total": 36059,
@@ -128814,11 +128806,19 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-14",
+      "date": "2020-5-13",
       "confirmed": 35788,
       "deaths": 770,
       "total": 36558,
       "recovered": 9695
+    },
+    {
+      "country": "Pakistan",
+      "date": "2020-5-14",
+      "confirmed": 38799,
+      "deaths": 834,
+      "total": 39633,
+      "recovered": 10880
     },
     {
       "country": "Pakistan",
@@ -128831,14 +128831,6 @@
     {
       "country": "Pakistan",
       "date": "2020-5-16",
-      "confirmed": 38799,
-      "deaths": 834,
-      "total": 39633,
-      "recovered": 10880
-    },
-    {
-      "country": "Pakistan",
-      "date": "2020-5-17",
       "confirmed": 40151,
       "deaths": 873,
       "total": 41024,
@@ -128846,7 +128838,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-18",
+      "date": "2020-5-17",
       "confirmed": 42125,
       "deaths": 903,
       "total": 43028,
@@ -128854,7 +128846,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-19",
+      "date": "2020-5-18",
       "confirmed": 43966,
       "deaths": 939,
       "total": 44905,
@@ -128862,7 +128854,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-20",
+      "date": "2020-5-19",
       "confirmed": 45898,
       "deaths": 985,
       "total": 46883,
@@ -128870,7 +128862,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-21",
+      "date": "2020-5-20",
       "confirmed": 48091,
       "deaths": 1017,
       "total": 49108,
@@ -128878,7 +128870,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-22",
+      "date": "2020-5-21",
       "confirmed": 50694,
       "deaths": 1067,
       "total": 51761,
@@ -128886,7 +128878,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-23",
+      "date": "2020-5-22",
       "confirmed": 52437,
       "deaths": 1101,
       "total": 53538,
@@ -128894,7 +128886,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-24",
+      "date": "2020-5-23",
       "confirmed": 54601,
       "deaths": 1133,
       "total": 55734,
@@ -128902,7 +128894,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-25",
+      "date": "2020-5-24",
       "confirmed": 56349,
       "deaths": 1167,
       "total": 57516,
@@ -128910,7 +128902,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-26",
+      "date": "2020-5-25",
       "confirmed": 57705,
       "deaths": 1197,
       "total": 58902,
@@ -128918,7 +128910,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-27",
+      "date": "2020-5-26",
       "confirmed": 59151,
       "deaths": 1225,
       "total": 60376,
@@ -128926,7 +128918,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-28",
+      "date": "2020-5-27",
       "confirmed": 61227,
       "deaths": 1260,
       "total": 62487,
@@ -128934,7 +128926,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-29",
+      "date": "2020-5-28",
       "confirmed": 64028,
       "deaths": 1317,
       "total": 65345,
@@ -128942,7 +128934,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-30",
+      "date": "2020-5-29",
       "confirmed": 66457,
       "deaths": 1395,
       "total": 67852,
@@ -128950,7 +128942,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-5-31",
+      "date": "2020-5-30",
       "confirmed": 69496,
       "deaths": 1483,
       "total": 70979,
@@ -128958,7 +128950,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-6-1",
+      "date": "2020-5-31",
       "confirmed": 72460,
       "deaths": 1543,
       "total": 74003,
@@ -128966,7 +128958,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-6-2",
+      "date": "2020-6-1",
       "confirmed": 76398,
       "deaths": 1621,
       "total": 78019,
@@ -128974,7 +128966,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-6-3",
+      "date": "2020-6-2",
       "confirmed": 80463,
       "deaths": 1688,
       "total": 82151,
@@ -128982,7 +128974,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-6-4",
+      "date": "2020-6-3",
       "confirmed": 85264,
       "deaths": 1770,
       "total": 87034,
@@ -128990,7 +128982,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-6-5",
+      "date": "2020-6-4",
       "confirmed": 89249,
       "deaths": 1838,
       "total": 91087,
@@ -128998,7 +128990,7 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-6-6",
+      "date": "2020-6-5",
       "confirmed": 93983,
       "deaths": 1935,
       "total": 95918,
@@ -129006,11 +128998,19 @@
     },
     {
       "country": "Pakistan",
-      "date": "2020-6-7",
+      "date": "2020-6-6",
       "confirmed": 98943,
       "deaths": 2002,
       "total": 100945,
       "recovered": 33465
+    },
+    {
+      "country": "Pakistan",
+      "date": "2020-6-7",
+      "confirmed": 103671,
+      "deaths": 2067,
+      "total": 105738,
+      "recovered": 34355
     },
     {
       "country": "Pakistan",
