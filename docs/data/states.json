@@ -3015,6 +3015,14 @@
       "state": "Washington",
       "deaths": "4369",
       "total": "3157694369"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "53",
+      "cases": "317703",
+      "state": "Washington",
+      "deaths": "4404",
+      "total": "3177034404"
     }
   ],
   "Illinois": [
@@ -6005,10 +6013,18 @@
     {
       "date": "2021-01-31",
       "fips": "17",
-      "cases": "1126471",
+      "cases": "1128505",
       "state": "Illinois",
-      "deaths": "21253",
-      "total": "112647121253"
+      "deaths": "21242",
+      "total": "112850521242"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "17",
+      "cases": "1131212",
+      "state": "Illinois",
+      "deaths": "21273",
+      "total": "113121221273"
     }
   ],
   "California": [
@@ -8995,6 +9011,14 @@
       "state": "California",
       "deaths": "40928",
       "total": "332361340928"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "06",
+      "cases": "3341116",
+      "state": "California",
+      "deaths": "41339",
+      "total": "334111641339"
     }
   ],
   "Arizona": [
@@ -11973,6 +11997,14 @@
       "state": "Arizona",
       "deaths": "13120",
       "total": "75857613120"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "04",
+      "cases": "762458",
+      "state": "Arizona",
+      "deaths": "13124",
+      "total": "76245813124"
     }
   ],
   "Massachusetts": [
@@ -14903,6 +14935,14 @@
       "state": "Massachusetts",
       "deaths": "14577",
       "total": "52402514577"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "25",
+      "cases": "526423",
+      "state": "Massachusetts",
+      "deaths": "14607",
+      "total": "52642314607"
     }
   ],
   "Wisconsin": [
@@ -17801,6 +17841,14 @@
       "state": "Wisconsin",
       "deaths": "6437",
       "total": "5921406437"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "55",
+      "cases": "592921",
+      "state": "Wisconsin",
+      "deaths": "6439",
+      "total": "5929216439"
     }
   ],
   "Texas": [
@@ -20643,6 +20691,14 @@
       "state": "Texas",
       "deaths": "37242",
       "total": "237521837242"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "48",
+      "cases": "2414009",
+      "state": "Texas",
+      "deaths": "37390",
+      "total": "241400937390"
     }
   ],
   "Nebraska": [
@@ -23445,6 +23501,14 @@
       "state": "Nebraska",
       "deaths": "2011",
       "total": "1908912011"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "31",
+      "cases": "191221",
+      "state": "Nebraska",
+      "deaths": "2017",
+      "total": "1912212017"
     }
   ],
   "Utah": [
@@ -26183,6 +26247,14 @@
       "state": "Utah",
       "deaths": "1665",
       "total": "3466241665"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "49",
+      "cases": "347208",
+      "state": "Utah",
+      "deaths": "1669",
+      "total": "3472081669"
     }
   ],
   "Oregon": [
@@ -28897,6 +28969,14 @@
       "state": "Oregon",
       "deaths": "1972",
       "total": "1424171972"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "41",
+      "cases": "143373",
+      "state": "Oregon",
+      "deaths": "1980",
+      "total": "1433731980"
     }
   ],
   "Florida": [
@@ -31595,6 +31675,14 @@
       "state": "Florida",
       "deaths": "26478",
       "total": "172136926478"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "12",
+      "cases": "1727099",
+      "state": "Florida",
+      "deaths": "26684",
+      "total": "172709926684"
     }
   ],
   "New York": [
@@ -34293,6 +34381,14 @@
       "state": "New York",
       "deaths": "43178",
       "total": "142016443178"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "36",
+      "cases": "1429096",
+      "state": "New York",
+      "deaths": "43354",
+      "total": "142909643354"
     }
   ],
   "Rhode Island": [
@@ -36991,6 +37087,14 @@
       "state": "Rhode Island",
       "deaths": "2154",
       "total": "1144382154"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "44",
+      "cases": "115956",
+      "state": "Rhode Island",
+      "deaths": "2173",
+      "total": "1159562173"
     }
   ],
   "Georgia": [
@@ -39681,6 +39785,14 @@
       "state": "Georgia",
       "deaths": "13778",
       "total": "88524913778"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "13",
+      "cases": "888462",
+      "state": "Georgia",
+      "deaths": "13821",
+      "total": "88846213821"
     }
   ],
   "New Hampshire": [
@@ -42371,6 +42483,14 @@
       "state": "New Hampshire",
       "deaths": "1057",
       "total": "656951057"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "33",
+      "cases": "66058",
+      "state": "New Hampshire",
+      "deaths": "1059",
+      "total": "660581059"
     }
   ],
   "North Carolina": [
@@ -45053,6 +45173,14 @@
       "state": "North Carolina",
       "deaths": "9381",
       "total": "7599559381"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "37",
+      "cases": "763358",
+      "state": "North Carolina",
+      "deaths": "9397",
+      "total": "7633589397"
     }
   ],
   "New Jersey": [
@@ -47727,6 +47855,14 @@
       "state": "New Jersey",
       "deaths": "21484",
       "total": "69683121484"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "34",
+      "cases": "700346",
+      "state": "New Jersey",
+      "deaths": "21513",
+      "total": "70034621513"
     }
   ],
   "Colorado": [
@@ -50393,6 +50529,14 @@
       "state": "Colorado",
       "deaths": "5711",
       "total": "3971385711"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "08",
+      "cases": "399384",
+      "state": "Colorado",
+      "deaths": "5737",
+      "total": "3993845737"
     }
   ],
   "Maryland": [
@@ -53059,6 +53203,14 @@
       "state": "Maryland",
       "deaths": "7127",
       "total": "3546497127"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "24",
+      "cases": "355812",
+      "state": "Maryland",
+      "deaths": "7154",
+      "total": "3558127154"
     }
   ],
   "Nevada": [
@@ -55725,6 +55877,14 @@
       "state": "Nevada",
       "deaths": "4271",
       "total": "2784604271"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "32",
+      "cases": "279241",
+      "state": "Nevada",
+      "deaths": "4281",
+      "total": "2792414281"
     }
   ],
   "Tennessee": [
@@ -58391,6 +58551,14 @@
       "state": "Tennessee",
       "deaths": "9557",
       "total": "7132909557"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "47",
+      "cases": "715439",
+      "state": "Tennessee",
+      "deaths": "9660",
+      "total": "7154399660"
     }
   ],
   "Hawaii": [
@@ -61049,6 +61217,14 @@
       "state": "Hawaii",
       "deaths": "407",
       "total": "25786407"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "15",
+      "cases": "25870",
+      "state": "Hawaii",
+      "deaths": "407",
+      "total": "25870407"
     }
   ],
   "Indiana": [
@@ -63707,6 +63883,14 @@
       "state": "Indiana",
       "deaths": "9974",
       "total": "6297939974"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "18",
+      "cases": "631502",
+      "state": "Indiana",
+      "deaths": "9989",
+      "total": "6315029989"
     }
   ],
   "Kentucky": [
@@ -66365,6 +66549,14 @@
       "state": "Kentucky",
       "deaths": "3977",
       "total": "3668573977"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "21",
+      "cases": "368623",
+      "state": "Kentucky",
+      "deaths": "3995",
+      "total": "3686233995"
     }
   ],
   "Minnesota": [
@@ -69023,6 +69215,14 @@
       "state": "Minnesota",
       "deaths": "6268",
       "total": "4618756268"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "27",
+      "cases": "462596",
+      "state": "Minnesota",
+      "deaths": "6270",
+      "total": "4625966270"
     }
   ],
   "Oklahoma": [
@@ -71681,6 +71881,14 @@
       "state": "Oklahoma",
       "deaths": "3547",
       "total": "3894723547"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "40",
+      "cases": "390868",
+      "state": "Oklahoma",
+      "deaths": "3564",
+      "total": "3908683564"
     }
   ],
   "Pennsylvania": [
@@ -74339,6 +74547,14 @@
       "state": "Pennsylvania",
       "deaths": "21715",
       "total": "84824421715"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "42",
+      "cases": "851911",
+      "state": "Pennsylvania",
+      "deaths": "21741",
+      "total": "85191121741"
     }
   ],
   "South Carolina": [
@@ -76997,6 +77213,14 @@
       "state": "South Carolina",
       "deaths": "7042",
       "total": "4433867042"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "45",
+      "cases": "445916",
+      "state": "South Carolina",
+      "deaths": "7283",
+      "total": "4459167283"
     }
   ],
   "District of Columbia": [
@@ -79647,6 +79871,14 @@
       "state": "District of Columbia",
       "deaths": "913",
       "total": "36872913"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "11",
+      "cases": "37008",
+      "state": "District of Columbia",
+      "deaths": "916",
+      "total": "37008916"
     }
   ],
   "Kansas": [
@@ -82297,6 +82529,14 @@
       "state": "Kansas",
       "deaths": "3779",
       "total": "2776333779"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "20",
+      "cases": "279587",
+      "state": "Kansas",
+      "deaths": "3809",
+      "total": "2795873809"
     }
   ],
   "Missouri": [
@@ -84947,6 +85187,14 @@
       "state": "Missouri",
       "deaths": "7176",
       "total": "4934317176"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "29",
+      "cases": "494869",
+      "state": "Missouri",
+      "deaths": "7182",
+      "total": "4948697182"
     }
   ],
   "Vermont": [
@@ -87597,6 +87845,14 @@
       "state": "Vermont",
       "deaths": "174",
       "total": "11965174"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "50",
+      "cases": "12083",
+      "state": "Vermont",
+      "deaths": "175",
+      "total": "12083175"
     }
   ],
   "Virginia": [
@@ -90247,6 +90503,14 @@
       "state": "Virginia",
       "deaths": "6464",
       "total": "5047796464"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "51",
+      "cases": "507640",
+      "state": "Virginia",
+      "deaths": "6474",
+      "total": "5076406474"
     }
   ],
   "Connecticut": [
@@ -92889,6 +93153,14 @@
       "state": "Connecticut",
       "deaths": "7046",
       "total": "2500237046"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "09",
+      "cases": "253954",
+      "state": "Connecticut",
+      "deaths": "7119",
+      "total": "2539547119"
     }
   ],
   "Iowa": [
@@ -95531,6 +95803,14 @@
       "state": "Iowa",
       "deaths": "4901",
       "total": "3194084901"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "19",
+      "cases": "320187",
+      "state": "Iowa",
+      "deaths": "4906",
+      "total": "3201874906"
     }
   ],
   "Louisiana": [
@@ -98165,6 +98445,14 @@
       "state": "Louisiana",
       "deaths": "8859",
       "total": "4006268859"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "22",
+      "cases": "401591",
+      "state": "Louisiana",
+      "deaths": "8912",
+      "total": "4015918912"
     }
   ],
   "Ohio": [
@@ -100799,6 +101087,14 @@
       "state": "Ohio",
       "deaths": "11178",
       "total": "89579211178"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "39",
+      "cases": "899079",
+      "state": "Ohio",
+      "deaths": "11233",
+      "total": "89907911233"
     }
   ],
   "Michigan": [
@@ -103425,6 +103721,14 @@
       "state": "Michigan",
       "deaths": "15516",
       "total": "60860015516"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "26",
+      "cases": "611223",
+      "state": "Michigan",
+      "deaths": "15527",
+      "total": "61122315527"
     }
   ],
   "South Dakota": [
@@ -106051,6 +106355,14 @@
       "state": "South Dakota",
       "deaths": "1778",
       "total": "1082501778"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "46",
+      "cases": "108315",
+      "state": "South Dakota",
+      "deaths": "1778",
+      "total": "1083151778"
     }
   ],
   "Arkansas": [
@@ -108669,6 +108981,14 @@
       "state": "Arkansas",
       "deaths": "4868",
       "total": "2952684868"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "05",
+      "cases": "296494",
+      "state": "Arkansas",
+      "deaths": "4895",
+      "total": "2964944895"
     }
   ],
   "Delaware": [
@@ -111287,6 +111607,14 @@
       "state": "Delaware",
       "deaths": "1090",
       "total": "780711090"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "10",
+      "cases": "78495",
+      "state": "Delaware",
+      "deaths": "1101",
+      "total": "784951101"
     }
   ],
   "Mississippi": [
@@ -113905,6 +114233,14 @@
       "state": "Mississippi",
       "deaths": "6045",
       "total": "2750016045"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "28",
+      "cases": "275706",
+      "state": "Mississippi",
+      "deaths": "6056",
+      "total": "2757066056"
     }
   ],
   "New Mexico": [
@@ -116523,6 +116859,14 @@
       "state": "New Mexico",
       "deaths": "3285",
       "total": "1740643285"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "35",
+      "cases": "174550",
+      "state": "New Mexico",
+      "deaths": "3297",
+      "total": "1745503297"
     }
   ],
   "North Dakota": [
@@ -119141,6 +119485,14 @@
       "state": "North Dakota",
       "deaths": "1447",
       "total": "976551447"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "38",
+      "cases": "97708",
+      "state": "North Dakota",
+      "deaths": "1447",
+      "total": "977081447"
     }
   ],
   "Wyoming": [
@@ -121759,6 +122111,14 @@
       "state": "Wyoming",
       "deaths": "596",
       "total": "51912596"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "56",
+      "cases": "52057",
+      "state": "Wyoming",
+      "deaths": "596",
+      "total": "52057596"
     }
   ],
   "Alaska": [
@@ -124369,6 +124729,14 @@
       "state": "Alaska",
       "deaths": "253",
       "total": "53985253"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "02",
+      "cases": "54091",
+      "state": "Alaska",
+      "deaths": "253",
+      "total": "54091253"
     }
   ],
   "Maine": [
@@ -126979,6 +127347,14 @@
       "state": "Maine",
       "deaths": "590",
       "total": "39324590"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "23",
+      "cases": "39543",
+      "state": "Maine",
+      "deaths": "595",
+      "total": "39543595"
     }
   ],
   "Alabama": [
@@ -129581,6 +129957,14 @@
       "state": "Alabama",
       "deaths": "7688",
       "total": "4596397688"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "01",
+      "cases": "460860",
+      "state": "Alabama",
+      "deaths": "7688",
+      "total": "4608607688"
     }
   ],
   "Idaho": [
@@ -132183,6 +132567,14 @@
       "state": "Idaho",
       "deaths": "1727",
       "total": "1627621727"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "16",
+      "cases": "163291",
+      "state": "Idaho",
+      "deaths": "1737",
+      "total": "1632911737"
     }
   ],
   "Montana": [
@@ -134785,6 +135177,14 @@
       "state": "Montana",
       "deaths": "1234",
       "total": "939611234"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "30",
+      "cases": "94146",
+      "state": "Montana",
+      "deaths": "1235",
+      "total": "941461235"
     }
   ],
   "Puerto Rico": [
@@ -137387,6 +137787,14 @@
       "state": "Puerto Rico",
       "deaths": "1829",
       "total": "1272391829"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "72",
+      "cases": "127853",
+      "state": "Puerto Rico",
+      "deaths": "1836",
+      "total": "1278531836"
     }
   ],
   "Virgin Islands": [
@@ -139981,6 +140389,14 @@
       "state": "Virgin Islands",
       "deaths": "24",
       "total": "239824"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "78",
+      "cases": "2421",
+      "state": "Virgin Islands",
+      "deaths": "24",
+      "total": "242124"
     }
   ],
   "Guam": [
@@ -142567,6 +142983,14 @@
       "state": "Guam",
       "deaths": "130",
       "total": "8556130"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "66",
+      "cases": "8577",
+      "state": "Guam",
+      "deaths": "130",
+      "total": "8577130"
     }
   ],
   "West Virginia": [
@@ -145137,6 +145561,14 @@
       "state": "West Virginia",
       "deaths": "2024",
       "total": "1210012024"
+    },
+    {
+      "date": "2021-02-01",
+      "fips": "54",
+      "cases": "121425",
+      "state": "West Virginia",
+      "deaths": "2028",
+      "total": "1214252028"
     }
   ],
   "Northern Mariana Islands": [
@@ -147614,6 +148046,14 @@
     },
     {
       "date": "2021-01-31",
+      "fips": "69",
+      "cases": "131",
+      "state": "Northern Mariana Islands",
+      "deaths": "2",
+      "total": "1312"
+    },
+    {
+      "date": "2021-02-01",
       "fips": "69",
       "cases": "131",
       "state": "Northern Mariana Islands",
